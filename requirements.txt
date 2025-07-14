@@ -1,0 +1,9 @@
+fastapi 
+uvicorn 
+transformers 
+torch
+tensorflow
+safetensors
+huggingfaces
+numpy
+bert_score

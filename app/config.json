@@ -1,0 +1,7 @@
+{
+    "EMAIL_ADDRESS": "mentalhealthchatbot@testbot.com",
+    "MAILGUN_API_KEY": "",
+    "MAILGUN_DOMAIN": "",
+    "HUGGINGFACES_TOKEN": "",
+    "LLM_URL": "http://localhost:11434/api/generate"
+}
