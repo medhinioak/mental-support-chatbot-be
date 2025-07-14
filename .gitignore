@@ -6,4 +6,3 @@ __pycache__
 *.pem
 
 app/config_with_values.json
-*.safetensors
